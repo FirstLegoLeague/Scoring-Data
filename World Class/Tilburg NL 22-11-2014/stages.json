@@ -1,0 +1,5 @@
+[
+{"id":"qualifying","name":"Voorrondes","rounds":3},
+{"id":"semifinal","name":"Halve finale","rounds":1},
+{"id":"final","name":"Finale","rounds":1}
+]
